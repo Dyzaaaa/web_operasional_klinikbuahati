@@ -1,5 +1,6 @@
 # Klinik Buah Hati Website
-!!This is just a sample not the full ecosystem!!
+
+## !!This is just a sample!!
 
 A responsive and user-friendly clinic website designed with a modern UI/UX approach and developed using **Tailwind CSS**.  
 Built to help Doctor and Pharmacist to manage information efficiently.
